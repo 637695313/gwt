@@ -2,7 +2,7 @@
 olomo
 
 welco, the go ok mis.
-天生一次玛蒂卡鸡——古贤者命太上游行。
+第1段第1回，天生一次玛卡鸡——古贤者命太上游行。
 
 
 Get into GWT：
@@ -23,4 +23,4 @@ Yunhai
 
 
 Deepending：
-Do the want， go the kuck。了十八这握的。
+Do the want， go the kuck。云去深知人可测，谁了18这我得。
